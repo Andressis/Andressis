@@ -34,8 +34,8 @@ Sou de Curitiba-Pr 🇧🇷 e curto transformar ideias em código. Aqui você en
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Andressis&show_icons=true&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Andressis&layout=compact&theme=tokyonight)
 
 ---
 
