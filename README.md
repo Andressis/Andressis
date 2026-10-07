@@ -1,18 +1,16 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o André 👋
 
-### [Sua profissão ou área, ex: Desenvolvedor Full Stack | Estudante de Engenharia de Software]
+### Desenvolvedor Front-End  
 
-Sou de [Cidade, Estado] 🇧🇷 e curto transformar ideias em código. Aqui você encontra meus projetos, estudos e experimentos.
+Sou de Curitiba-Pr 🇧🇷 e curto transformar ideias em código. Aqui você encontra meus projetos, estudos e experimentos.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando em: **[projeto ou empresa]**
-- 🌱 Estudando: **[tecnologia, curso ou linguagem]**
-- 💬 Pergunte-me sobre: **[assunto em que você manda bem]**
-- 🎯 Objetivo: **[ex: conseguir minha primeira vaga como dev]**
-- ⚡ Curiosidade: **[algo divertido sobre você]**
+- 🔭 Atualmente trabalhando em: **Jgs Qualidade e Metrologia**
+- 🌱 Estudando: **Ciencia da Computação**
+- 🎯 Objetivo: **conseguir minha primeira vaga como dev**
 
 ---
 
@@ -20,19 +18,16 @@ Sou de [Cidade, Estado] 🇧🇷 e curto transformar ideias em código. Aqui voc
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-*(Troque pelas suas tecnologias em [shields.io](https://shields.io))*
 
 ---
 
 ## 📌 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição |
 |---------|-----------|-------------|
-| [Nome do projeto](link) | [O que ele faz] | [Stack] |
+| Site da JGS(https://github.com/Andressis/jgs) | [O que ele faz] |
 | [Nome do projeto](link) | [O que ele faz] | [Stack] |
 | [Nome do projeto](link) | [O que ele faz] | [Stack] |
 
