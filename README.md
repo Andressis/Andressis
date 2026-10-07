@@ -26,10 +26,9 @@ Sou de Curitiba-Pr 🇧🇷 e curto transformar ideias em código. Aqui você en
 ## 📌 Projetos em destaque
 
 | Projeto | Descrição |
-|---------|-----------|-------------|
-| Site da JGS(https://github.com/Andressis/jgs) | [O que ele faz] |
-| [Nome do projeto](link) | [O que ele faz] | [Stack] |
-| [Nome do projeto](link) | [O que ele faz] | [Stack] |
+|---------|-----------|
+| [Site da JGS](https://github.com/Andressis/jgs) | [Site desenvolvido para a empresa em que trabalho] |
+| [Projeto Faculdade](https://github.com/Andressis/BusCuritiba) | [Atual projeto da faculdade, um site/app para mostrar o itinerario das linhas de onibus de Curitiba] |
 
 ---
 
