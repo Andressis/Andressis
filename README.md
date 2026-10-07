@@ -41,7 +41,7 @@ Sou de Curitiba-Pr 🇧🇷 e curto transformar ideias em código. Aqui você en
 
 ## 📫 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/andre-vitor-de-assis-6a40a328a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-vitor-de-assis-6a40a328a/)
 
 ---
 
